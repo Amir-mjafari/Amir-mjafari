@@ -1,6 +1,6 @@
 - 👋 I’m @Amir-mjafari 
 -  :gear: Engineer
-- :man_technologist: Python, R, MATLAB and a bit JAVA
+- :man_technologist: Python, R, MATLAB, and a bit JAVA
 - :heart: Statistics
 - 👀 Statistical and Machine Learning models + Experimental Design
 - 🌱 Learning MySQL
