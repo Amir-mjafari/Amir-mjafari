@@ -4,7 +4,7 @@
 - :heart: Statistics
 - 👀 Statistical and Machine Learning models + Experimental Design
 - 🌱 Learning MySQL
-- 💞️ Looking to collaborate on innovative ideas :bulb: in analysis of online experiments to improve users experience  :balloon:
+- 💞️ Looking to collaborate on innovative ideas in analysis of online experiments to improve users experience :bulb: 
 - 📫 You can reach me through my email: amir.mjafari@yahoo.com  
 
 <!---
