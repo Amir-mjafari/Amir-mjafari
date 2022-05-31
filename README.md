@@ -1,9 +1,8 @@
 - 👋 I’m @Amir-mjafari 
 -  :gear: Engineer
-- :man_technologist: Python, R, MATLAB, and a bit JAVA
+- :man_technologist: Python, R, MATLAB, SQL, and a bit JAVA
 - :heart: Statistics
 - 👀 Statistical and Machine Learning models + Experimental Design
-- 🌱 Learning MySQL
 - 💞️ Looking to collaborate on innovative ideas in analysis of online experiments to improve users experience :bulb: 
 - 📫 You can reach me through my email: amir.mjafari@yahoo.com  
 
