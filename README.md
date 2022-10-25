@@ -1,5 +1,4 @@
 - 👋 I’m @Amir-mjafari 
--  :gear: Engineer
 - 📫 You can reach me through my email: amir.mjafari@yahoo.com  
 
 <!---
